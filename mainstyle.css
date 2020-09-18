@@ -1,0 +1,150 @@
+html{
+		background-color:white;
+		scroll-behavior: smooth;
+	}
+	body{
+		margin:5vmin;
+	}
+	h1{
+		font-family:'Oswald', sans-serif; ;
+		font-size:30vmin;
+		color:black;
+	}
+  .shown{
+    position:relative;
+    top:-100pt;
+  }
+	h2{
+    position:relative;
+		font-family:'Open Sans', sans-serif;semi-bold 600;
+		font-size:7vmin;
+		color:black;
+		text-align:left;
+    top:-100pt;
+	}
+  h3{
+    position:relative;
+    font-family:'Open Sans', sans-serif;semi-bold 600;
+    font-size:7vmin;
+    color:black;
+    text-align:right;
+    top:-200pt;
+  }
+  #p4{
+    position:relative;
+    font-family:'Open Sans', sans-serif;semi-bold 600;
+    font-size:7vmin;
+    color:black;
+    text-align:right;
+    top:-320pt;
+  }
+
+	p{
+    position:relative;
+    width:60%;
+		font-family:'Open Sans', sans-serif; ;
+		font-size:2vmin;
+		text-align:justify;
+    top:-100pt;
+	}
+
+#right{
+  position:relative;
+  width:75%;
+  font-family:'Open Sans', sans-serif; ;
+  font-size:2vmin;
+  text-align:justify;
+  top:-200pt;
+  left:25%;
+}
+#right2{
+  position:relative;
+  width:50%;
+  font-family:'Open Sans', sans-serif; ;
+  font-size:2vmin;
+  text-align:justify;
+  top:-320pt;
+  left:50%;
+}
+#lastt{
+  position:relative;
+  font-family:'Open Sans', sans-serif;semi-bold 600;
+  font-size:7vmin;
+  color:black;
+  text-align:left;
+  top:-600pt;
+}
+#lastp{
+  position:relative;
+  width:60%;
+  font-family:'Open Sans', sans-serif; ;
+  font-size:2vmin;
+  text-align:justify;
+  top:-600pt;
+}
+#blank{
+  height:20vmin;
+  width:100%;
+}
+	#title{
+		font-size:2vmin;
+	}
+	a{
+		color:black;
+    text-decoration:none;
+	}
+	a:hover{
+		background-color: none;
+	}
+	a:active{
+		color:black;
+	}
+
+  .hover-shown,.hover-shown-1{
+  display:none;
+}
+
+.shown:hover   .hover-shown{
+  display:block;
+}
+.shown-1:hover .hover-shown-1{
+  display:block;
+}
+.hover-shown{
+  position:absolute;
+  font-family:'Open Sans', sans-serif;
+  font-size:10pt;
+  width:40%;
+  top:15%;
+  left:60%;
+  background-color:black;
+  color:white;
+  padding:2vmin;
+}
+#img1{
+  position:relative;
+  width:35%;
+  top:-410pt;
+  left:65%;
+}
+#img2{
+  position:relative;
+  width:35%;
+  top:-480pt;
+  left:65%;
+}
+#img3{
+  position:relative;
+  width:40%;
+  top:-720pt;
+}
+#img4{
+  position:relative;
+  width:35%;
+  top:-1050pt;
+  left:65%;
+}
+#citation{
+  top:-500pt;
+  font-size:3pt;
+}
