@@ -10,6 +10,14 @@ html{
 		font-size:30vmin;
 		color:black;
 	}
+  h4{
+    position:relative;
+    font-family:'Oswald', sans-serif; ;
+  		font-size:4vmin;
+  		color:black;
+      text-align:right;
+      top:-235pt;
+  }
   .shown{
     position:relative;
     top:-100pt;
@@ -114,12 +122,12 @@ html{
   position:absolute;
   font-family:'Open Sans', sans-serif;
   font-size:10pt;
-  width:40%;
-  top:15%;
-  left:60%;
+  width:41%;
+  top:9.5%;
+  left:55%;
   background-color:black;
   color:white;
-  padding:2vmin;
+  padding:3vmin;
 }
 #img1{
   position:relative;
