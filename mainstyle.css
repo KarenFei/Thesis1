@@ -1,6 +1,7 @@
 html{
 		background-color:white;
 		scroll-behavior: smooth;
+    height:90%;
 	}
 	body{
 		margin:5vmin;
@@ -90,10 +91,7 @@ html{
   text-align:justify;
   top:-600pt;
 }
-#blank{
-  height:20vmin;
-  width:100%;
-}
+
 	#title{
 		font-size:2vmin;
 	}
@@ -153,7 +151,9 @@ html{
   top:-1050pt;
   left:65%;
 }
+
 #citation{
-  top:-500pt;
+  top:-800pt;
   font-size:3pt;
+  text-align:left;
 }
